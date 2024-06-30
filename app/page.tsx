@@ -1,7 +1,7 @@
-import Routes from "@/src/Routes";
-
 export default function Home() {
   return (
-    <Routes />
+    <h1 className="text-3xl font-bold underline">
+      Dashboard
+    </h1>
   );
 }

@@ -1,5 +1,3 @@
-import './globals.css';
-
 export const metadata = {
   title: 'Yak Room',
   description: 'A perfect room for everyone',
